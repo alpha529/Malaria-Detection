@@ -1,1 +1,1 @@
-# malaria-classification
+# Malaria-Detection
